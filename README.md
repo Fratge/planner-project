@@ -15,5 +15,6 @@ npm run serve
 npm run build
 ```
 ### Run de Json Server Database
-
+```
 npx json-server data/db.json
+```
