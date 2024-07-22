@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Faire le ménage dans la cuisine",
+      "details": "Passer le balais et la moppe",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Donner à manger au chien",
+      "details": "Prendre les croquettes dans le placard",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "title": "Nettoyer les fenêtres",
+      "details": "Acheter du produit à vitres",
+      "complete": true
+    }
+  ]
+}
