@@ -14,6 +14,6 @@ npm run serve
 ```
 npm run build
 ```
+### Run de Json Server Database
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npx json-server data/db.json
